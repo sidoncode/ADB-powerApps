@@ -1,0 +1,7 @@
+﻿"Employee","EmployeeEmail","ManagerEmail","TeamOrUnit","WorkDate","AvailabilityStatus","StartTime","EndTime","Location","CoverageNotes","BackupContact","NotificationRequired","SubmittedBy"
+"Alex Rivera","alex.rivera@example.test",,,"9/23/2026","In Office",,,"ADB HQ","Available ",,"True",
+"Jamie Cruz","jamie.cruz@example.test",,,"9/23/2026","Working from Home",,,,"Available through Teams",,"True",
+"Morgan Lee","morgan.kee@example.test",,,"9/23/2026","On Leave",,,,"Backup Contact Assinged",,"True",
+"Taylor Santos","taylor.santos@example.test",,,"9/23/2026","On Mission",,,"Field location","limited Availability",,"True",
+"Casey Lim","casey.lim@example.test",,,"9/23/2026","Attending Training",,,"Training Room","Unavailable During Session",,"True",
+"Hello","hello@360digitaltransformation.com","asd@asdas.com","124","9/24/2026","Working from Home",,,,"asdasd",,"True",
